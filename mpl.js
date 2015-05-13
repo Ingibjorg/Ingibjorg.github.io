@@ -286,7 +286,7 @@ onload = function() {
   * namespace of a message bus by calling getNamespace()
   */
   messageBus = castReceiverManager.getCastMessageBus(
-      'urn:x-cast:com.gangverk.cast.siminntv');
+      'urn:x-cast:com.google.cast.media');
 
   messageBus.onMessage = function(event) {
     console.log('### Message Bus - Media Message: ' + JSON.stringify(event));

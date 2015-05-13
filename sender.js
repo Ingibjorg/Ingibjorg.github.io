@@ -26,7 +26,7 @@ var PROGRESS_BAR_UPDATE_DELAY = 1000;
 /**
  * Custom message namespace for debug channel
  **/
-var MESSAGE_NAMESPACE = 'urn:x-cast:com.gangverk.cast.siminntv';
+var MESSAGE_NAMESPACE = 'urn:x-cast:com.google.cast.media';
 
 /**
  * Media constants: URLs
