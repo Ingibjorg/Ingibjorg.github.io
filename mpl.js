@@ -286,16 +286,8 @@ onload = function() {
   * namespace of a message bus by calling getNamespace()
   */
   messageBus = castReceiverManager.getCastMessageBus(
-      'urn:x-cast:com.google.cast.sample.mediaplayer');
-  /**
-  * The namespace urn:x-cast:com.google.cast.sample.mediaplayer is used to
-  * identify the protocol of showing/hiding the heads up display messages
-  * (The messages defined at the beginning of the html).
-  *
-  * The protocol consists of one string message: show
-  * In the case of the message value not being show - the assumed value is hide.
-  * @param {Object} event A returned object from callback
-  **/
+      'urn:x-cast:com.gangverk.cast.siminntv');
+
   messageBus.onMessage = function(event) {
     console.log('### Message Bus - Media Message: ' + JSON.stringify(event));
     setDebugMessage('messageBusMessage', event);
