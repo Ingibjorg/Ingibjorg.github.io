@@ -1,0 +1,19 @@
+{
+  "name": "ingibjorg",
+  "version": "1.0.0",
+  "description": "CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ingibjorg/Ingibjorg.github.io.git"
+  },
+  "author": "Ingibjorg Osk Jonsdottir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ingibjorg/Ingibjorg.github.io/issues"
+  },
+  "homepage": "https://github.com/Ingibjorg/Ingibjorg.github.io#readme"
+}
