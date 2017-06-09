@@ -1,3 +1,4 @@
 # Ingibjorg Osk Jonsdottir
-## Software Engineer
-iojonsdottir@gmail.com
+###### +354 866 3028 | iojonsdottir@gmail.com
+## Experience
+## Education
