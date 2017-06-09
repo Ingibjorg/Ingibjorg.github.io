@@ -1,1 +1,3 @@
-# Ingibjorg.github.io
+# Ingibjorg Osk Jonsdottir
+## Software Engineer
+iojonsdottir@gmail.com
