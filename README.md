@@ -2,12 +2,13 @@
 ___
 #### **Software Developer** | [Gangverk](http://gangverk.is/)
 May 2015 - Present | Reykjavik, Iceland
-- Developing iOS and Android apps for US and Icelandic customers, mainly on the [Sotheby's app](https://itunes.apple.com/us/app/sothebys/id1061156465?mt=8).
+- Developing iOS and Android apps for American and Icelandic customers.
+- Mainly worked on the [Sotheby's app](https://itunes.apple.com/us/app/sothebys/id1061156465?mt=8).
 - Worked with React Native, Swift, Objective C and Java.
 
 #### **Teaching Assistant** | [Reykjavik University](https://www.ru.is/)
 Jan 2015 - Dec 2015 | Reykjavik, Iceland
-- Taught Web Programming (Spring 2015) and Compilers (Fall 2015)
+- Taught Web Programming (Spring 2015) and Compilers (Fall 2015).
 
 #### **Speaker** | [The Federation of Icelandic Industries](http://www.si.is/)
 Sep 2013 - May 2015 | Reykjavik, Iceland
@@ -20,11 +21,6 @@ Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 
 # Education
 ___
-#### **MSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
-2015 - 2017 | Reykjavik, Iceland
-- MSc project involved research within the field of interactive storytelling games. The player's game telemetry was used to predict their emotions at certain events in the game.
-- Received Dean's Selection Scholarship
-
 #### **MSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 2015 - 2017 | Reykjavik, Iceland
 - MSc project involved research within the field of interactive storytelling games. The player's game telemetry was used to predict their emotions at certain events in the game.
