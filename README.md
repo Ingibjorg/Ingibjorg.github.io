@@ -44,6 +44,8 @@ Skills
 ======
 ```
 Swift
+React Native
+JavaScript
 Java
 Objective C
 Python
