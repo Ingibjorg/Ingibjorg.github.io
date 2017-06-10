@@ -1,5 +1,5 @@
-Experience
-======
+# Experience
+___
 #### **Software Developer** | [Gangverk](http://gangverk.is/)
 May 2015 - Present | Reykjavik, Iceland
 - Developing iOS and Android apps for US and Icelandic customers, mainly on the [Sotheby's app](https://itunes.apple.com/us/app/sothebys/id1061156465?mt=8).
@@ -15,8 +15,8 @@ Sep 2013 - May 2015 | Reykjavik, Iceland
 
 #### **Software Developer Trainee** | [Opensoft Systems Ltd](http://www.opensoftsystems.co.uk/)
 Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
-- Developed a SAP communication protocol for an automobile parts manufacturer. 
-- Developed a reporting software and a website for internal use at Opensoft. Skills that I acquired: C#, .NET, MVC, SCADA.
+- Developed a SAP communication protocol for an automobile parts manufacturer, a reporting software and a website for internal use at Opensoft. 
+- Skills acquired: C#, .NET, MVC, SCADA.
 
 Education
 ======
