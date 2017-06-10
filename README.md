@@ -42,12 +42,11 @@ Education
 
 Skills
 ======
-```python
+```
 Swift
 Java
 Objective C
 Python
 ```
-###### linkedin.com/in/ingibjorg-osk-jonsdottir
- | iojonsdottir@gmail.com
+###### [LinkedIn](linkedin.com/in/ingibjorg-osk-jonsdottir) | iojonsdottir@gmail.com
 
