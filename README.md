@@ -44,7 +44,7 @@ JavaScript
 Java
 Objective C
 Python
-Familiar with: C#, C++
+Also familiar with: C#, C++ and C
 ```
 ##### [LinkedIn](https://linkedin.com/in/ingibjorg-osk-jonsdottir) | [iojonsdottir@gmail.com](mailto:iojonsdottir@gmail.com)
 
