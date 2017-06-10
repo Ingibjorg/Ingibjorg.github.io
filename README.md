@@ -31,7 +31,7 @@ ___
 2016 | Maastricht, Netherlands
 - Exchange studies in Artificial Intelligence
 
-##### **BSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
+#### **BSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 2012 - 2015 | Reykjavik, Iceland
 - Co-founder of /sys/tur, an organization for female students at the CS department. PR officer in 2013-14 and President in 2014-15.
 - Independant research project: Curriculum for teaching with tablets in elementary schools.
