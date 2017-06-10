@@ -45,5 +45,5 @@ Java
 Objective C
 Python
 ```
-##### [LinkedIn](linkedin.com/in/ingibjorg-osk-jonsdottir) | iojonsdottir@gmail.com
+##### [LinkedIn](https://linkedin.com/in/ingibjorg-osk-jonsdottir) | iojonsdottir@gmail.com
 
