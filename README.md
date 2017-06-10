@@ -1,5 +1,4 @@
-# Ingibjorg Osk Jonsdottir
-## Experience
+# Experience
 ___
 ##### **Software Developer** | Gangverk
 May 2015 - Present | Reykjavik, Iceland
@@ -19,7 +18,7 @@ Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 - Developed a SAP communication protocol for an automobile parts manufacturer. 
 - Developed a reporting software and a website for internal use at Opensoft. Skills that I acquired: C#, .NET, MVC, SCADA.
 
-## Education
+# Education
 ##### **MSc Software Engineering** | Reykjavik University
 2015 - 2017 | Reykjavik, Iceland
 - MSc project involved research within the field of interactive storytelling games. The player's game telemetry was used to predict their emotions at certain events in the game.
@@ -40,7 +39,7 @@ Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 - Co-founder of /sys/tur, an organization for female students at the CS department. PR officer in 2013-14 and President in 2014-15.
 - Independant research project: Curriculum for teaching with tablets in Elementary Schools
 
-## Skills
+# Skills
 
 ###### linkedin.com/in/ingibjorg-osk-jonsdottir
  | iojonsdottir@gmail.com
