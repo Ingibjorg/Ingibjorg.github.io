@@ -27,7 +27,7 @@ ___
 - Graduate Student Representative 2015-16
 - Received Dean's Selection Scholarship
 
-#### **MSc Exchange Student** | [Maastricht University](https://www.maastrichtuniversity.nl/)
+#### **MSc Exchange Student** | [Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/humanities-and-sciences/department-data-science-knowledge-engineering)
 2016 | Maastricht, Netherlands
 - Exchange studies in Artificial Intelligence
 
