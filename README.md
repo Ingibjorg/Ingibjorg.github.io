@@ -1,4 +1,4 @@
-## Experience
+# Experience
 ___
 #### **Software Developer** | [Gangverk](http://gangverk.is/)
 May 2015 - Present | Reykjavik, Iceland
@@ -19,7 +19,7 @@ Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 - Developed a SAP communication protocol for an automobile parts manufacturer, a reporting software and a website for internal use at Opensoft. 
 - Skills acquired: C#, .NET, MVC, SCADA.
 
-## Education
+# Education
 ___
 #### **MSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 2015 - 2017 | Reykjavik, Iceland
@@ -36,7 +36,7 @@ ___
 - Co-founder of /sys/tur, an organization for female students at the CS department. PR officer in 2013-14 and President in 2014-15.
 - Independant research project: Curriculum for teaching with tablets in elementary schools.
 
-## Skills
+# Skills
 ```
 Swift
 React Native
