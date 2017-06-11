@@ -23,7 +23,7 @@ Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 ___
 #### **MSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 2015 - 2017 | Reykjavik, Iceland
-- MSc project involved research within the field of interactive storytelling video games. The player's game telemetry was used to predict their emotions (recorded with EEG) at certain events in the game.
+- MSc project involving research within the field of interactive storytelling video games. The player's game telemetry was used to predict their emotions (recorded with EEG) at certain points in the game.
 - Graduate Student Representative 2015-16
 - Received Dean's Selection Scholarship
 
