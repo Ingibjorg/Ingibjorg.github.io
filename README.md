@@ -41,8 +41,8 @@ ___
 #### **Co-founder** | [/sys/tur](http://systur.ru.is/)
 May 2013 - May 2015 | Reykjavik, Iceland
 - Co-founder (2013), Public Relations Officer (2013-14), President (2014-15)
-- /sys/tur, is an organization for female students in CS at Reykjavik University. Our goal is to even out the ratio between men and women in CS and make women in the field more visible. 
-- I have given several of lectures about the subject and helped organize the first Girls in ICT Day in Iceland. We also took part in the tech conference [UT Messan](http://utmessan.is/) in which we've showcased our Raspberry Pi projects and taugh people about the inside of a computer.
+- /sys/tur, is an organization for female students in CS at Reykjavik University. Our goal is to even out the ratio between men and women in CS. 
+- I have given several of lectures about the subject and we've taken part in several events such as Girls in ICT Day, Code Week and [UT Messan](http://utmessan.is/).
 
 #### **Editor** | [The Icelandic Society for Information Processing](http://www.sky.is/)
 May 2013 – Aug 2014 | Reykjavik, Iceland 
