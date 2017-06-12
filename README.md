@@ -32,7 +32,7 @@ ___
 
 #### **BSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 2012 - 2015 | Reykjavik, Iceland
-- Co-founder of [/sys/tur](#organizations)
+- Co-founder of [/sys/tur](#organizations).
 - Independant research project: Curriculum for teaching with tablets in elementary schools.
 
 # Organizations
