@@ -2,8 +2,7 @@
 ___
 #### **Software Developer** | [Gangverk](http://gangverk.is/)
 May 2015 - Present | Reykjavik, Iceland
-- Developed iOS and Android apps for American and Icelandic customers.
-- Worked mainly on the [Sotheby's app](https://itunes.apple.com/us/app/sothebys/id1061156465?mt=8).
+- Developed the following iOS and Android apps: [Sjonvarp Simans](https://itunes.apple.com/us/app/sj%C3%B3nvarp-s%C3%ADmans/id724740942?mt=8), [Sarpurinn](https://itunes.apple.com/is/app/sarpurinn/id932907172?mt=8), [X977](https://itunes.apple.com/is/app/x977/id635535416?mt=8), [CBS Local](https://itunes.apple.com/us/app/cbs-local/id532811902?mt=8) and mainly on [Sotheby's app](https://itunes.apple.com/us/app/sothebys/id1061156465?mt=8).
 - Worked with React Native, Swift, Objective C and Java in an Agile environment.
 
 #### **Teaching Assistant** | [Reykjavik University](https://www.ru.is/)
