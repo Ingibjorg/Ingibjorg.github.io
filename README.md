@@ -33,8 +33,19 @@ ___
 
 #### **BSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 2012 - 2015 | Reykjavik, Iceland
-- Co-founder of /sys/tur, an organization for female students at the CS department. PR officer in 2013-14 and President in 2014-15.
+- Co-founder of [/sys/tur](# Organizations)
 - Independant research project: Curriculum for teaching with tablets in elementary schools.
+
+# Organizations
+___
+#### **Co-founder** | [/sys/tur](http://systur.ru.is/)
+May 2013 - May 2015 | Reykjavik, Iceland
+- Co-founder (2013), Public Relations Officer (2013-14), President (2014-15)
+- /sys/tur, is an organization for female students in CS at Reykjavik University. Our goal is to even out the ratio between men and women in CS and make women in the field more visible. I have given several of lectures about the subject. I organized the first Girls in ICT Day in Iceland alongside with RU and tech companies. We also took part in a tech conference called the UT Messa; in 2014 we showed people various projects we did with Raspberry Pi; in 2015 we taught people about the inside of the computer and helped them take it apart and put it back together.
+
+#### **Member of the Editorial Board** | [The Icelandic Society for Information Processing](http://www.sky.is/)
+May 2013 – Aug 2014 | Reykjavik, Iceland 
+- Member of the Editorial Board of Tölvumál which is a web magazine hosted at sky.is.
 
 # Skills
 ```
