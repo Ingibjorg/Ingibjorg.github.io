@@ -31,7 +31,7 @@ Aug 2012 - Jun 2015 | Reykjavik, Iceland
 - Co-founder of [/sys/tur](#organizations).
 - Independant research project: Curriculum for teaching with tablets in elementary schools.
 
-# Organizations
+# Extra Curricular Activities
 ___
 #### **Co-founder** | [/sys/tur](http://systur.ru.is/)
 May 2013 - May 2015 | Reykjavik, Iceland
