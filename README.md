@@ -28,7 +28,7 @@ Feb 2016 - Jun 2016 | Maastricht, Netherlands
 
 #### **BSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 Aug 2012 - Jun 2015 | Reykjavik, Iceland
-- Co-founder of [/sys/tur](#organizations).
+- Co-founder of [/sys/tur](#extra-curricular-activities).
 - Independant research project: Curriculum for teaching with tablets in elementary schools.
 
 # Extra Curricular Activities
