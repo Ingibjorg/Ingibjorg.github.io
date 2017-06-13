@@ -9,10 +9,6 @@ May 2015 - Present | Reykjavik, Iceland
 Jan 2015 - Dec 2015 | Reykjavik, Iceland
 - Web Programming (Spring 2015) and Compilers (Fall 2015).
 
-#### **Speaker** | [The Federation of Icelandic Industries](http://www.si.is/)
-Sep 2013 - May 2015 | Reykjavik, Iceland
-- Gave lectures promoting STEM education in high schools all over Iceland as a student ambassador in an outreach collaboration effort by industry and academia.
-
 #### **Software Developer Trainee** | [Opensoft Systems Ltd](http://www.opensoftsystems.co.uk/)
 Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 - Developed a SAP communication protocol for an automobile parts manufacturer, a reporting software and a website for internal use at Opensoft. 
@@ -42,6 +38,10 @@ May 2013 - May 2015 | Reykjavik, Iceland
 - Co-founder (2013), Public Relations Officer (2013-14), President (2014-15)
 - /sys/tur, is an organization for female students in CS at Reykjavik University. Our goal is to even out the ratio between men and women in CS. 
 - I have given lectures on the subject and we've taken part in tech events such as Girls in ICT Day, Code Week and [UT Messan](http://utmessan.is/).
+
+#### **Speaker** | [The Federation of Icelandic Industries](http://www.si.is/)
+Sep 2013 - May 2015 | Reykjavik, Iceland
+- Gave lectures promoting STEM education in high schools all over Iceland as a student ambassador in an outreach collaboration effort by industry and academia.
 
 #### **Editor** | [The Icelandic Society for Information Processing](http://www.sky.is/)
 May 2013 – Aug 2014 | Reykjavik, Iceland 
