@@ -17,17 +17,17 @@ Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 # Education
 ___
 #### **MSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
-2015 - 2017 | Reykjavik, Iceland
+Aug 2015 - Aug 2017 | Reykjavik, Iceland
 - MSc project involving research within the field of interactive storytelling video games. The player's game telemetry was used to predict their emotions (recorded with EEG) at certain points in the game.
 - Graduate Student Representative 2015-16.
 - Received Dean's Selection Scholarship.
 
 #### **MSc Exchange Student** | [Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/humanities-and-sciences/department-data-science-knowledge-engineering)
-2016 | Maastricht, Netherlands
+Feb 2016 - Jun 2016 | Maastricht, Netherlands
 - Exchange studies in Artificial Intelligence.
 
 #### **BSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
-2012 - 2015 | Reykjavik, Iceland
+Aug 2012 - Jun 2015 | Reykjavik, Iceland
 - Co-founder of [/sys/tur](#organizations).
 - Independant research project: Curriculum for teaching with tablets in elementary schools.
 
