@@ -58,5 +58,5 @@ Objective C
 Python
 Also familiar with: C#, C++ and C
 ```
-##### [LinkedIn](https://linkedin.com/in/ingibjorg-osk-jonsdottir) | [iojonsdottir@gmail.com](mailto:iojonsdottir@gmail.com)
+##### Ingibjorg Osk Jonsdottir | [iojonsdottir@gmail.com](mailto:iojonsdottir@gmail.com) | [LinkedIn](https://linkedin.com/in/ingibjorg-osk-jonsdottir)
 
