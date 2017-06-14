@@ -3,28 +3,29 @@ ___
 #### **Software Developer** | [Gangverk](http://gangverk.is/)
 May 2015 - Present | Reykjavik, Iceland
 - Developing iOS and Android apps: [Sotheby's](https://itunes.apple.com/us/app/sothebys/id1061156465?mt=8), [CBS Local](https://itunes.apple.com/us/app/cbs-local/id532811902?mt=8), [Sjonvarp Simans](https://itunes.apple.com/us/app/sj%C3%B3nvarp-s%C3%ADmans/id724740942?mt=8), [Sarpurinn](https://itunes.apple.com/is/app/sarpurinn/id932907172?mt=8) and [X977](https://itunes.apple.com/is/app/x977/id635535416?mt=8).
-- Working with React Native, Swift, Objective C and Java in an Agile environment.
+- Programming in React Native, Swift, Objective C and Java in an Agile environment.
 
 #### **Teaching Assistant** | [Reykjavik University](https://www.ru.is/)
 Jan 2015 - Dec 2015 | Reykjavik, Iceland
-- Web Programming (Spring 2015) and Compilers (Fall 2015).
+- Compilers (Fall 2015) and Web Programming (Spring 2015).
 
 #### **Software Developer Trainee** | [Opensoft Systems Ltd](http://www.opensoftsystems.co.uk/)
 Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 - Developed a SAP communication protocol for an automobile parts manufacturer, a reporting software and a website for internal use at Opensoft. 
-- Skills acquired: C#, .NET, MVC, SCADA.
+- Programming in C#, .NET, MVC and SCADA.
 
 # Education
 ___
 #### **MSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 Aug 2015 - Aug 2017 | Reykjavik, Iceland
-- MSc project involving research within the field of interactive storytelling video games. The player's game telemetry was used to predict their emotions (recorded with EEG) at certain points in the game.
+- Emphasis on Artificial Intelligence and Interactive Narrative Technologies.
+- MSc project involving research in which player's in-game actions were used to predict their emotions (recorded with EEG) at certain points in a video game.
 - Graduate Student Representative 2015-16.
 - Received Dean's Selection Scholarship.
 
 #### **MSc Exchange Student** | [Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/humanities-and-sciences/department-data-science-knowledge-engineering)
 Feb 2016 - Jun 2016 | Maastricht, Netherlands
-- Exchange studies in Artificial Intelligence.
+- Exchange studies in Artificial Intelligence at the Department of Data Science and Knowledge Engineering.
 
 #### **BSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 Aug 2012 - Jun 2015 | Reykjavik, Iceland
@@ -45,7 +46,7 @@ Sep 2013 - May 2015 | Reykjavik, Iceland
 
 #### **Editor** | [The Icelandic Society for Information Processing](http://www.sky.is/)
 May 2013 – Aug 2014 | Reykjavik, Iceland 
-- Member of the Editorial Board of Tölvumál, a web magazine hosted at [sky.is](http://www.sky.is/).
+- Member of the Editorial Board of Tölvumál, a technology magazine hosted at [sky.is](http://www.sky.is/).
 
 # Skills
 ```
