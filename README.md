@@ -1,6 +1,6 @@
 Hi! I'm Ingibjorg, a Sofware Engineer working at Gangverk on the mobile app for [Sotheby's](http://www.sothebys.com/en.html). I like to keep busy so along working full time, I've been doing a MSc in Software Engineering and I'm graduating this summer. I was very fortunate to discover programming in my first semester of university. I felt like spreading the joy and co-founded /sys/tur, an organization for women at the Computer Science department at Reykjavik University. We aimed on evening out the ratio between men and women in the field and since then, the proportion of women in our department has gone up from 18% to 27%! 🎉 
 
-Currently, my interests lie in development of high quality mobile apps, artificial intelligence and improving myself as a programmer.
+Currently, my interests lie in development of high quality mobile apps, artificial intelligence and interactive narrative game development.
 
 # Experience
 ___
