@@ -1,6 +1,6 @@
-Hi! I'm Ingibjorg, a Software Engineer working as a Mobile Developer at Gangverk. I like to keep busy so as working full time, I've been doing a MSc in Software Engineering and I'm graduating this summer. I was very fortunate to discover programming in my first semester of university. I felt like spreading the joy and co-founded /sys/tur, an organization empowering women to study and excel in Computer Science. Since then, the proportion of women in the Computer Science department at my university has gone up from 18% to 27%! 🎉 
+Hi! I'm Ingibjorg, a Software Engineer working as a Mobile Developer at Gangverk. I like to keep busy so as working full time, I've been doing a MSc in Software Engineering and I'm graduating this summer. I was very fortunate to discover programming in my first semester of university. I felt like spreading the joy and co-founded /sys/tur, an organization empowering women to study and excel in Computer Science.
 
-Currently, my interests lie in development of high quality mobile apps, artificial intelligence and interactive narrative technologies.
+My primary interests lie in development of high quality mobile apps, artificial intelligence and interactive narrative technologies.
 
 # Experience
 ___
