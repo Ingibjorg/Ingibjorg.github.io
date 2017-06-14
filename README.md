@@ -1,3 +1,7 @@
+Hi! I'm Ingibjorg (call me Inga), a Sofware Engineer working on the mobile app for [Sotheby's](http://www.sothebys.com/en.html). I love trying out new technology and most recently, I've immersed in the world of React Native and GraphQL. I like to keep busy so along working full time, I've been doing a MSc in Software Engineering and I'm graduating this summer. I was very fortunate to discover programming in my first semester of studying Biomedical Engineering which made me switch to Software Engineering. I felt like spreading the joy and co-founded /sys/tur an organization for women at the CS department at Reykjavik University. We aimed on making women in the field more prominent to attract more people to study computer science. Since we started, the proportion of women in our CS department has gone from 18% to 27%! 🎉
+
+I love programming but I also enjoy playing my saxophone, cooking good food and catching up with friends over a coffee.  
+
 # Experience
 ___
 #### **Software Developer** | [Gangverk](http://gangverk.is/)
