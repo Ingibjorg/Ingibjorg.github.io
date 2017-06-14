@@ -1,4 +1,4 @@
-Hi! I'm Ingibjorg, a Software Engineer working as a Mobile Developer at Gangverk. I like to keep busy so as working full time, I've been doing a MSc in Software Engineering and I'm graduating this summer. I was very fortunate to discover programming in my first semester of university. I felt like spreading the joy and co-founded /sys/tur, an organization for women at the Computer Science department at Reykjavik University. Our aim was to empower women to study and excel in Computer Science and since we started, the proportion of women in the department has gone up from 18% to 27%! 🎉
+Hi! I'm Ingibjorg, an experienced Software Developer working at Gangverk. I like to keep busy so as working full time, I've been doing a MSc in Software Engineering and I'm graduating this summer. I'm passionate about empowering women to study and excel in Computer Science. I co-founded /sys/tur, an organization for female students at Reykjavik University. Since then, the proportion of women in the department has gone up from 18% to 27%! 🎉
 
 My primary interests lie in development of high quality mobile apps, artificial intelligence and interactive narrative technologies.
 
