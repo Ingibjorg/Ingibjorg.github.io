@@ -62,5 +62,5 @@ Objective C
 Python
 Also familiar with: C#, C++ and C
 ```
-##### Ingibjorg Osk Jonsdottir | Reykjavik, Iceland | [iojonsdottir@gmail.com](mailto:iojonsdottir@gmail.com) | [LinkedIn](https://linkedin.com/in/ingibjorg-osk-jonsdottir)
+##### Ingibjorg Osk Jonsdottir | [iojonsdottir@gmail.com](mailto:iojonsdottir@gmail.com) | [LinkedIn](https://linkedin.com/in/ingibjorg-osk-jonsdottir)
 
