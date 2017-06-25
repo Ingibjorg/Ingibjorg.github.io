@@ -1,6 +1,6 @@
-Hi! I'm Ingibjorg, an experienced Software Developer working at Gangverk. I like to keep busy so along working full time, I've been doing a MSc in Software Engineering and I'm graduating this summer. I'm passionate about empowering women to study and excel in Computer Science. I co-founded /sys/tur, an organization for female students at Reykjavik University and since then, the proportion of women in the Computer Science department has gone up from 18% to 27%! 🎉
+Hi! I'm Ingibjorg, an experienced Software Developer working at Gangverk. I like to keep busy so along with working full time, I've been doing an MSc in Software Engineering and I'm graduating this summer. I'm passionate about empowering women to study and excel in Computer Science. I co-founded /sys/tur, an organization for female students at Reykjavik University and since then, the proportion of women in the Computer Science department has gone up from 18% to 27%! 🎉
 
-My primary interests lie in development of high quality mobile apps, artificial intelligence and interactive narrative technologies.
+My primary interests lie in the development of high-quality mobile apps, artificial intelligence, and interactive narrative technologies.
 
 # Experience
 ___
@@ -16,7 +16,7 @@ Jan 2015 - Dec 2015 | Reykjavik, Iceland
 #### **Software Developer Trainee** | [Opensoft Systems Ltd](http://www.opensoftsystems.co.uk/)
 Jun 2014 - Aug 2014 | Knaresborough, United Kingdom
 - Developed a SAP communication protocol for an automobile parts manufacturer, a reporting software and a website for internal use at Opensoft. 
-- Programming in C#, .NET, MVC and SCADA.
+- Programming in C#, .NET, MVC, and SCADA.
 
 # Education
 ___
