@@ -23,7 +23,7 @@ ___
 #### **MSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 Aug 2015 - Aug 2017 | Reykjavik, Iceland
 - Emphasis on Artificial Intelligence and Interactive Narrative Technologies.
-- MSc project involving research in which player's in-game actions were used to predict their emotions (recorded with EEG) at certain points in a video game.
+- MSc Thesis: **Predicting Players' Emotions from Game Telemetry**
 - Graduate Student Representative 2015-16.
 - Received Dean's Selection Scholarship.
 
