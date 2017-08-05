@@ -23,13 +23,13 @@ ___
 #### **MSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 Aug 2015 - Aug 2017 | Reykjavik, Iceland
 - Emphasis on Artificial Intelligence and Interactive Narrative Technologies.
-- MSc Thesis: **Predicting Players' Emotions from Game Telemetry**
+- MSc Thesis: *Predicting Players' Emotions from Game Telemetry*
 - Graduate Student Representative 2015-16.
 - Received Dean's Selection Scholarship.
 
 #### **MSc Exchange Student** | [Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/humanities-and-sciences/department-data-science-knowledge-engineering)
 Feb 2016 - Jun 2016 | Maastricht, Netherlands
-- Exchange studies in Artificial Intelligence at the Department of Data Science and Knowledge Engineering.
+- Exchange studies in Artificial Intelligence.
 
 #### **BSc Software Engineering** | [Reykjavik University](https://www.ru.is/)
 Aug 2012 - Jun 2015 | Reykjavik, Iceland
