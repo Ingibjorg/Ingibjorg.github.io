@@ -1,4 +1,5 @@
 **About Me**
+
 I'm an experienced Software Developer working at Gangverk. My primary interests lie in the development of high-quality mobile apps and artificial intelligence. I am very organized and love to work in an agile environment. Programming is my passion in life, and I strive for writing efficient and clean code. I also love travelling the world, playing my saxophone and riding my bike.
 
 # Experience
